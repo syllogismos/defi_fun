@@ -1,7 +1,8 @@
+```
 > brownie run deploy --network kovan
 > cd front_end
 > yarn start
-
+```
 ```
 {
   "42": {
